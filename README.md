@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to My World 👋
+
+- 🌱 I’m currently learning Python and continuing with the foundationals -HTML, CSS & JavaScript
+-  🔭 I’m currently working on way too many things
+-  - 📫 How to reach me: perugia33@gmail.com
 
 <!--
 **perugia33/perugia33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
