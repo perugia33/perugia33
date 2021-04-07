@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Python and continuing with the foundationals -HTML, CSS & JavaScript
 - 🔭 Also working on a new Lifestyle Blog Project
--  - 📫 How to reach me: perugia33@gmail.com
+- 📫 How to reach me: perugia33@gmail.com
 
 <!--
 **perugia33/perugia33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
