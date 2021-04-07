@@ -1,7 +1,7 @@
 ### Welcome to My World 👋
 
 - 🌱 I’m currently learning Python and continuing with the foundationals -HTML, CSS & JavaScript
--  🔭 I’m currently working on way too many things
+- 🔭 Also working on a new Lifestyle Blog Project
 -  - 📫 How to reach me: perugia33@gmail.com
 
 <!--
