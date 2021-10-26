@@ -1,7 +1,7 @@
 ### Welcome to My World 👋
 
 - 🌱 I’m currently learning Python and continuing with the foundationals -HTML, CSS & JavaScript
-- 🔭 Also working on the Bello Mundo Portfolio, a Photography Portfolio Project
+- 🔭 Also working on the Bello Mundo Portfolio, a Photography Portfolio Project  https://perugia33.github.io/Bello_Mundo_Project/
 - 📫 How to reach me: perugia33@gmail.com
 
 <!--
